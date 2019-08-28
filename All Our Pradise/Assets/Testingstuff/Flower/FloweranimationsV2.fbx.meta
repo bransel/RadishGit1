@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: e5ebae72d9a77d14499da186b460b2cb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bottom
+    100002: bottom1
+    100004: flower
+    100006: //RootNode
+    100008: joint1
+    100010: joint10
+    100012: joint11
+    100014: joint2
+    100016: joint3
+    100018: joint5
+    100020: joint6
+    100022: joint8
+    100024: joint9
+    100026: Leaf1
+    100028: Leaf2
+    100030: left
+    100032: mid
+    100034: pasted__leaf4
+    100036: pasted__leaf5
+    100038: pasted__pasted__flowermid4
+    100040: pasted__pCube36
+    100042: pasted__pCube38
+    100044: pasted__pCube39
+    100046: pasted__pCube40
+    100048: pasted__pCube41
+    100050: pasted__pCube42
+    100052: pasted__pCube44
+    100054: pasted__pCube48
+    100056: PetalA
+    100058: petalA1
+    100060: petalA2
+    100062: petalB
+    100064: Petalb1
+    100066: PetalB2
+    100068: PetalC
+    100070: PetalC1
+    100072: PetalC2
+    100074: PetalD
+    100076: PetalD1
+    100078: PetalE
+    100080: PetalE1
+    100082: PetalE2
+    100084: PetalF
+    100086: PetalF1
+    100088: PetalG
+    100090: PetalG1
+    100092: PetalG2
+    100094: stem1
+    100096: stem1 1
+    100098: stem2
+    100100: stem2 1
+    100102: stem3
+    100104: stem3 1
+    400000: bottom
+    400002: bottom1
+    400004: flower
+    400006: //RootNode
+    400008: joint1
+    400010: joint10
+    400012: joint11
+    400014: joint2
+    400016: joint3
+    400018: joint5
+    400020: joint6
+    400022: joint8
+    400024: joint9
+    400026: Leaf1
+    400028: Leaf2
+    400030: left
+    400032: mid
+    400034: pasted__leaf4
+    400036: pasted__leaf5
+    400038: pasted__pasted__flowermid4
+    400040: pasted__pCube36
+    400042: pasted__pCube38
+    400044: pasted__pCube39
+    400046: pasted__pCube40
+    400048: pasted__pCube41
+    400050: pasted__pCube42
+    400052: pasted__pCube44
+    400054: pasted__pCube48
+    400056: PetalA
+    400058: petalA1
+    400060: petalA2
+    400062: petalB
+    400064: Petalb1
+    400066: PetalB2
+    400068: PetalC
+    400070: PetalC1
+    400072: PetalC2
+    400074: PetalD
+    400076: PetalD1
+    400078: PetalE
+    400080: PetalE1
+    400082: PetalE2
+    400084: PetalF
+    400086: PetalF1
+    400088: PetalG
+    400090: PetalG1
+    400092: PetalG2
+    400094: stem1
+    400096: stem1 1
+    400098: stem2
+    400100: stem2 1
+    400102: stem3
+    400104: stem3 1
+    2000000: left
+    2100000: lambert1
+    4300000: pasted__leaf4
+    4300002: pasted__leaf5
+    4300004: pasted__pCube36
+    4300006: pasted__pCube38
+    4300008: pasted__pCube39
+    4300010: pasted__pCube40
+    4300012: pasted__pCube41
+    4300014: pasted__pCube48
+    4300016: pasted__pCube44
+    4300018: pasted__pCube42
+    4300020: pasted__pasted__flowermid4
+    7400000: Idle
+    7400002: Bloom
+    7400004: Close
+    7400006: despawn
+    7400008: Idle2
+    9500000: //RootNode
+    13700000: pasted__leaf4
+    13700002: pasted__leaf5
+    13700004: pasted__pasted__flowermid4
+    13700006: pasted__pCube36
+    13700008: pasted__pCube38
+    13700010: pasted__pCube39
+    13700012: pasted__pCube40
+    13700014: pasted__pCube41
+    13700016: pasted__pCube42
+    13700018: pasted__pCube44
+    13700020: pasted__pCube48
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bloom
+      takeName: Bloom
+      firstFrame: 320
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Close
+      takeName: Close
+      firstFrame: 450
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: despawn
+      takeName: despawn
+      firstFrame: 510
+      lastFrame: 590
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Idle2
+      firstFrame: 630
+      lastFrame: 722
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

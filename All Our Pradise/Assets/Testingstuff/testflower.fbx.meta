@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 7f75be8e75978b440acfd55cc448bdb0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bottom
+    100002: bottom1
+    100004: flower
+    100006: joint1
+    100008: joint10
+    100010: joint11
+    100012: joint2
+    100014: joint3
+    100016: joint5
+    100018: joint6
+    100020: joint8
+    100022: joint9
+    100024: Leaf1
+    100026: Leaf2
+    100028: left
+    100030: mid
+    100032: pasted__flowermid3
+    100034: pasted__leaf4
+    100036: pasted__leaf5
+    100038: pasted__pasted__flowermid4
+    100040: pasted__pCube36
+    100042: pasted__pCube38
+    100044: pasted__pCube39
+    100046: pasted__pCube40
+    100048: pasted__pCube41
+    100050: pasted__pCube42
+    100052: pasted__pCube44
+    100054: pasted__pCube48
+    100056: PetalA
+    100058: petalA1
+    100060: petalA2
+    100062: petalB
+    100064: Petalb1
+    100066: PetalB2
+    100068: PetalC
+    100070: PetalC1
+    100072: PetalC2
+    100074: PetalD
+    100076: PetalD1
+    100078: PetalE
+    100080: PetalE1
+    100082: PetalE2
+    100084: PetalF
+    100086: PetalF1
+    100088: PetalG
+    100090: PetalG1
+    100092: PetalG2
+    100094: stem1
+    100096: stem1 1
+    100098: stem2
+    100100: stem2 1
+    100102: stem3
+    100104: stem3 1
+    100106: //RootNode
+    100108: transform1
+    100110: transform10
+    100112: transform11
+    100114: transform12
+    100116: transform2
+    100118: transform3
+    100120: transform4
+    100122: transform5
+    100124: transform6
+    100126: transform7
+    100128: transform8
+    100130: transform9
+    400000: bottom
+    400002: bottom1
+    400004: flower
+    400006: joint1
+    400008: joint10
+    400010: joint11
+    400012: joint2
+    400014: joint3
+    400016: joint5
+    400018: joint6
+    400020: joint8
+    400022: joint9
+    400024: Leaf1
+    400026: Leaf2
+    400028: left
+    400030: mid
+    400032: pasted__flowermid3
+    400034: pasted__leaf4
+    400036: pasted__leaf5
+    400038: pasted__pasted__flowermid4
+    400040: pasted__pCube36
+    400042: pasted__pCube38
+    400044: pasted__pCube39
+    400046: pasted__pCube40
+    400048: pasted__pCube41
+    400050: pasted__pCube42
+    400052: pasted__pCube44
+    400054: pasted__pCube48
+    400056: PetalA
+    400058: petalA1
+    400060: petalA2
+    400062: petalB
+    400064: Petalb1
+    400066: PetalB2
+    400068: PetalC
+    400070: PetalC1
+    400072: PetalC2
+    400074: PetalD
+    400076: PetalD1
+    400078: PetalE
+    400080: PetalE1
+    400082: PetalE2
+    400084: PetalF
+    400086: PetalF1
+    400088: PetalG
+    400090: PetalG1
+    400092: PetalG2
+    400094: stem1
+    400096: stem1 1
+    400098: stem2
+    400100: stem2 1
+    400102: stem3
+    400104: stem3 1
+    400106: //RootNode
+    400108: transform1
+    400110: transform10
+    400112: transform11
+    400114: transform12
+    400116: transform2
+    400118: transform3
+    400120: transform4
+    400122: transform5
+    400124: transform6
+    400126: transform7
+    400128: transform8
+    400130: transform9
+    2000000: left
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
